@@ -1,0 +1,5 @@
+#!/bin/bash
+python3 -c "$PYCODE"
+
+please chmod your files 
+
