@@ -1,5 +1,2 @@
 #!/usr/bin/python3
-python_f = $PYFILE
-
-
-python $python_f
+python $PYFILE
